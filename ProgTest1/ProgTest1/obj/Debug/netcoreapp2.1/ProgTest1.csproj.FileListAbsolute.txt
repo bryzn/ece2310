@@ -1,0 +1,11 @@
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.csprojAssemblyReference.cache
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.AssemblyInfoInputs.cache
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.AssemblyInfo.cs
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/bin/Debug/netcoreapp2.1/ProgTest1.deps.json
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/bin/Debug/netcoreapp2.1/ProgTest1.runtimeconfig.json
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/bin/Debug/netcoreapp2.1/ProgTest1.runtimeconfig.dev.json
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/bin/Debug/netcoreapp2.1/ProgTest1.dll
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/bin/Debug/netcoreapp2.1/ProgTest1.pdb
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.dll
+/Users/bryanarciniega/Projects/ProgTest1/ProgTest1/obj/Debug/netcoreapp2.1/ProgTest1.pdb

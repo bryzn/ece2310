@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E0D65AFE-4A07-499F-B54B-3AE24E4FEB7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeManagement/Program.cs">
+    <Files>
+      <File FileName="TimeManagement/Program.cs" Line="18" Column="43" />
+      <File FileName="TimeManagement/Time.cs" Line="22" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TimeManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

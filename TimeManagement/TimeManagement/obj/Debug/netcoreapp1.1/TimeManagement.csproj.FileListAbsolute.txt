@@ -1,0 +1,11 @@
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/bin/Debug/netcoreapp1.1/TimeManagement.deps.json
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/bin/Debug/netcoreapp1.1/TimeManagement.runtimeconfig.json
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/bin/Debug/netcoreapp1.1/TimeManagement.runtimeconfig.dev.json
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/bin/Debug/netcoreapp1.1/TimeManagement.dll
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/bin/Debug/netcoreapp1.1/TimeManagement.pdb
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.csprojAssemblyReference.cache
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.AssemblyInfoInputs.cache
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.AssemblyInfo.cs
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.dll
+/Users/bryanarciniega/Projects/TimeManagement/TimeManagement/obj/Debug/netcoreapp1.1/TimeManagement.pdb
