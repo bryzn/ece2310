@@ -1,0 +1,11 @@
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/bin/Debug/netcoreapp1.1/exercise_5_2_3.deps.json
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/bin/Debug/netcoreapp1.1/exercise_5_2_3.runtimeconfig.json
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/bin/Debug/netcoreapp1.1/exercise_5_2_3.runtimeconfig.dev.json
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/bin/Debug/netcoreapp1.1/exercise_5_2_3.dll
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/bin/Debug/netcoreapp1.1/exercise_5_2_3.pdb
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.csprojAssemblyReference.cache
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.AssemblyInfoInputs.cache
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.AssemblyInfo.cs
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.dll
+/Users/bryanarciniega/Projects/exercise_5_2_3/exercise_5_2_3/obj/Debug/netcoreapp1.1/exercise_5_2_3.pdb
