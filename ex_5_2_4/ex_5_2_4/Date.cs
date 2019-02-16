@@ -6,8 +6,6 @@ namespace ex_5_2_4
         int month;
         int day;
         int year;
-        private Func<string> readLine;
-
         public Date() //constructor and setting the variables to 0
         {
             month = 0;
@@ -18,12 +16,6 @@ namespace ex_5_2_4
         {
             set_date(m, d, y);
         }
-
-        public Date(Func<string> readLine)
-        {
-            this.readLine = readLine;
-        }
-
         public void set_date(int m, int d, int y)
         {
             month = m;
