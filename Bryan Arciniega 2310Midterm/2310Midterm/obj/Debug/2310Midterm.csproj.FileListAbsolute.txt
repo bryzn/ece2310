@@ -1,0 +1,11 @@
+/Volumes/BRYAN USB2/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.csprojAssemblyReference.cache
+/Volumes/BRYAN USB2/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.csproj.CoreCompileInputs.cache
+/Volumes/BRYAN USB2/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.exe
+/Volumes/BRYAN USB2/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.pdb
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/bin/Debug/2310Midterm.exe.config
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/bin/Debug/2310Midterm.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/bin/Debug/2310Midterm.pdb
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.csprojAssemblyReference.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/Bryan Arciniega 2310Midterm/2310Midterm/obj/Debug/2310Midterm.pdb

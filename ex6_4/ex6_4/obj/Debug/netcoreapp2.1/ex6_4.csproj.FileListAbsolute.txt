@@ -1,0 +1,11 @@
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.csprojAssemblyReference.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.AssemblyInfoInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.AssemblyInfo.cs
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/bin/Debug/netcoreapp2.1/ex6_4.deps.json
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/bin/Debug/netcoreapp2.1/ex6_4.runtimeconfig.json
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/bin/Debug/netcoreapp2.1/ex6_4.runtimeconfig.dev.json
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/bin/Debug/netcoreapp2.1/ex6_4.dll
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/bin/Debug/netcoreapp2.1/ex6_4.pdb
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.dll
+/Users/bryanarciniega/Coding_Projects/ece2310/ex6_4/ex6_4/obj/Debug/netcoreapp2.1/ex6_4.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{40E573EE-C409-458A-A001-CB49CB362D32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex6_4/NExp.cs">
+    <Files>
+      <File FileName="ex6_4/Program.cs" Line="1" Column="1" />
+      <File FileName="ex6_4/Taylor.cs" Line="31" Column="10" />
+      <File FileName="ex6_4/NExp.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex6_4" expanded="True">
+            <Node name="ex6_4" expanded="True">
+              <Node name="NExp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ex6__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E6CB5DCE-90B0-4C11-BD6B-547451B966AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleTest/Program.cs">
+    <Files>
+      <File FileName="SampleTest/Program.cs" Line="8" Column="2" />
+      <File FileName="SampleTest/RightTriangle.cs" Line="38" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

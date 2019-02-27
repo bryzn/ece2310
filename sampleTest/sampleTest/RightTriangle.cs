@@ -3,7 +3,7 @@ namespace sampleTest
 {
     public class RightTriangle
     {
-        double sideA, sideB, hypotenuse, area, perimeter;
+        double sideA, sideB, sideC, hypotenuse, area, perimeter;
         public RightTriangle()
         {
             sideA = 1;
@@ -17,14 +17,16 @@ namespace sampleTest
         }
         private void calculate()
         {
-            area = sideA * sideB;
-            perimeter = (sideA * sideA) + (sideB * sideB);
-            hypotenuse = Math.Sqrt(perimeter);
+            area = .5 * sideA * sideB;
+            sideC = (sideA * sideA) + (sideB * sideB);
+            hypotenuse = Math.Sqrt(sideC);
+            perimeter = sideA + sideB + hypotenuse;
         }
         public void set_values(double insideA, double insideB)
         {
             sideA = insideA;
             sideB = insideB;
+            calculate();
         }
         public void toString()
         {

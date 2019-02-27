@@ -1,0 +1,9 @@
+C:/Users/baarciniega/source/repos/Ex6_1/Ex6_1/obj/Debug/Ex6_1.csprojResolveAssemblyReference.cache
+C:/Users/baarciniega/source/repos/Ex6_1/Ex6_1/obj/Debug/Ex6_1.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/obj/Debug/Ex6_1.csprojAssemblyReference.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/obj/Debug/Ex6_1.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/bin/Debug/Ex6_1.exe.config
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/bin/Debug/Ex6_1.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/bin/Debug/Ex6_1.pdb
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/obj/Debug/Ex6_1.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/Ex6_1/Ex6_1/obj/Debug/Ex6_1.pdb

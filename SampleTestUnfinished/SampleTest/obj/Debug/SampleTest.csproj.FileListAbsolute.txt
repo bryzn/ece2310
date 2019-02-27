@@ -1,0 +1,7 @@
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/bin/Debug/SampleTest.exe.config
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/bin/Debug/SampleTest.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/bin/Debug/SampleTest.pdb
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/obj/Debug/SampleTest.csprojAssemblyReference.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/obj/Debug/SampleTest.csproj.CoreCompileInputs.cache
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/obj/Debug/SampleTest.exe
+/Users/bryanarciniega/Coding_Projects/ece2310/SampleTestUnfinished/SampleTest/obj/Debug/SampleTest.pdb
