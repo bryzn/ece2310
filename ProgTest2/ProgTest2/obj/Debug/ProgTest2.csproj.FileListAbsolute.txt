@@ -1,0 +1,7 @@
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\obj\Debug\ProgTest2.csprojResolveAssemblyReference.cache
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\obj\Debug\ProgTest2.csproj.CoreCompileInputs.cache
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\bin\Debug\ProgTest2.exe.config
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\bin\Debug\ProgTest2.exe
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\bin\Debug\ProgTest2.pdb
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\obj\Debug\ProgTest2.exe
+C:\Users\baarciniega\source\repos\ProgTest2\ProgTest2\obj\Debug\ProgTest2.pdb
