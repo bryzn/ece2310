@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7D5648F6-6948-438A-997D-FAA83EAB90C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ex8_2_2/Program.cs">
+    <Files>
+      <File FileName="ex8_2_2/Program.cs" Line="16" Column="42" />
+      <File FileName="ex8_2_2/Shape.cs" Line="2" Column="18" />
+      <File FileName="ex8_2_2/Triangle.cs" Line="25" Column="9" />
+      <File FileName="ex8_2_2/Right_Triangle.cs" Line="10" Column="15" />
+      <File FileName="ex8_2_2/Equilateral_triangle.cs" Line="9" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ex8__2__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
